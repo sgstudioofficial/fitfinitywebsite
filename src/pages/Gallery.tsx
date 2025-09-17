@@ -9,120 +9,120 @@ const Gallery = () => {
 
   const galleryImages = [
     {
-      url: "public/images/gallery/g1.png",
+      url: "/images/gallery/g1.png",
       title:'',
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g2.png",
+      url: "/images/gallery/g2.png",
       title:'Our coaches',
     },
     {
-      url: "public/images/gallery/g3.png",
+      url: "/images/gallery/g3.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g4.png",
+      url: "/images/gallery/g4.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g5.png",
+      url: "/images/gallery/g5.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g6.png",
+      url: "/images/gallery/g6.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g7.png",
+      url: "/images/gallery/g7.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g8.png",
+      url: "/images/gallery/g8.png",
       category: "Equipment"
     },
     {
-      url: "public/images/gallery/g9.png",
+      url: "/images/gallery/g9.png",
       category: "Equipment"
     },
     {
-      url: "public/images/gallery/g10.png",
+      url: "/images/gallery/g10.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g11.png",
+      url: "/images/gallery/g11.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g12.png",
+      url: "/images/gallery/g12.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g13.png",
+      url: "/images/gallery/g13.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g14.png",
+      url: "/images/gallery/g14.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g15.png",
+      url: "/images/gallery/g15.png",
       category: "Equipment"
     },
     {
-      url: "public/images/gallery/g16.png",
+      url: "/images/gallery/g16.png",
       category: "Equipment"
     },
     {
-      url: "public/images/gallery/g17.png",
+      url: "/images/gallery/g17.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g18.png",
+      url: "/images/gallery/g18.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g19.png",
+      url: "/images/gallery/g19.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g20.png",
+      url: "/images/gallery/g20.png",
       category: "Studios"
     },
     {
-      url: "public/images/gallery/g21.png",
+      url: "/images/gallery/g21.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g22.png",
+      url: "/images/gallery/g22.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g23.png",
+      url: "/images/gallery/g23.png",
       category: "Facilities"
     },
     {
-      url: "public/images/gallery/g24.png",
+      url: "/images/gallery/g24.png",
       category: "Facilities"
     }
   ];
 
   const beforeAfterSliders = [
     {
-      before: "public/images/gallery/t1b.png",
-      after: "public/images/gallery/t1a.png",
+      before: "/images/gallery/t1b.png",
+      after: "/images/gallery/t1a.png",
       title: "Yuvraj's 3 month Journey",
       description: "From 121.6kg to 108.6kg in just 3 months!"
     },
     {
-      before: "public/images/gallery/t2b.png",
-      after: "public/images/gallery/t2a.png",
+      before: "/images/gallery/t2b.png",
+      after: "/images/gallery/t2a.png",
       title: "Garv's Fitness Journey",
       description: "From 110 Kg to 88 Kg, he crushed his goals with hard work, dedication, and the support of Coach Vishal Deb and the Fitfinity team."
     },
     {
-      before: "public/images/gallery/t3b.png",
-      after: "public/images/gallery/t3a.png",
+      before: "/images/gallery/t3b.png",
+      after: "/images/gallery/t3a.png",
       title: "Jyoti's Fitness Journey",
       description: "Complete lifestyle transformation in 8 months"
     }
