@@ -10,7 +10,7 @@ const Services = () => {
       description: "Build lean muscle and increase power with our state-of-the-art equipment and expert guidance.",
       icon: <Dumbbell className="w-12 h-12" />,
       features: ["Free Weights", "Resistance Machines", "Functional Training", "Personal Coaching"],
-      image: "public/images/services/st.png"
+      image: "/images/services/st.png"
     },
     {
       id: "zumba",
@@ -18,7 +18,7 @@ const Services = () => {
       description: "Dance your way to fitness with high-energy Zumba sessions.",
       icon: <Music className="w-12 h-12" />,
       features: ["Certified Instructors", "High-energy playlists", "Full-body workout", "Beginner-friendly routines"],
-      image: "public/images/services/dance.png"
+      image: "/images/services/dance.png"
     },
     {
       id: "boxing",
@@ -26,7 +26,7 @@ const Services = () => {
       description: "Intensive boxing training for fitness, self-defense, and competitive preparation.",
       icon: <Target className="w-12 h-12" />,
       features: ["Heavy Bag Training", "Speed & Agility", "Technique Classes", "Sparring Sessions"],
-      image: "public/images/services/box.png"
+      image: "/images/services/box.png"
     },
     {
       id: "yoga",
@@ -34,7 +34,7 @@ const Services = () => {
       description: "Find balance and flexibility through mindful movement and meditation practices.",
       icon: <Flower className="w-12 h-12" />,
       features: ["Certified yoga instructors", "Guided sessions", "Beginner to advanced poses", "Peaceful, focused environment"],
-      image: "public/images/services/yoga.png"
+      image: "/images/services/yoga.png"
     }
   ];
 

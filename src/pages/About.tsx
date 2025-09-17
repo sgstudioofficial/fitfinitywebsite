@@ -6,19 +6,19 @@ const About = () => {
       name: "Prasanjeet Dutta",
       role: "Founder | Leads strength training, functional fitness, and holistic lifestyle transformation.",
       bio: "I’m a Fitness Professional with over 10 years of experience helping individuals build strength, burn fat, and transform their lifestyle through science-based training and sustainable coaching. Holding a Diploma in Sports & Exercise Science, I’m also a Certified Personal Trainer (CPT), Kettlebell Training Specialist, and Super Body Super Brain Personal Training Specialist. My expertise spans across strength & conditioning, functional training, kettlebell mastery, fat loss, lean muscle development, athletic performance, and mind-body fitness for peak energy. My mission is to empower people to go beyond just workouts—helping them unlock discipline, confidence, and lasting transformation both inside and outside the gym.",
-      image: "public/images/founders/founder1.png"
+      image: "/images/founders/founder1.png"
     },
     {
       name: "Mona Sharma",
       role: "Founder | Specializes in nutrition, women’s health, and sustainable weight management.",
       bio: "“I am a Certified Nutritionist with expertise in Gut Health, Sports Nutrition, and Weight Loss Management, along with being a qualified Health Trainer. With over 10 years of experience in fitness and nutrition, I specialize in supporting women’s health—especially those dealing with hormonal imbalances .My approach blends science-based training with customized nutrition to help women lose weight effectively, build strength, and restore hormonal balance. Beyond weight loss, my goal is to create sustainable lifestyle transformations that improve energy, confidence, and overall wellbeing. I am passionate about guiding individuals toward lasting health with care and consistency.”",
-      image: "public/images/founders/founder3.png"
+      image: "/images/founders/founder3.png"
     },
     {
       name: "Rohit Verma",
       role: "Founder | Drives athletic performance, functional training, and competitive fitness coaching.",
       bio: "I am a certified Cricket Strength and Conditioning Specialist, dedicated to optimizing the performance of athletes. With additional certifications as a Functional and Group Training Specialist, I leverage a holistic approach to fitness. As both a HYROX Pro Athlete and a HYROX 365 Race Ready Coach, I apply my own race experience to help clients master the unique demands of functional fitness racing. My mission is to empower not just athletes, but everyone, to unlock their potential, improve their health, and live a fit, active lifestyle.",
-      image: "public/images/founders/founder2.png"
+      image: "/images/founders/founder2.png"
     }
   ];
 

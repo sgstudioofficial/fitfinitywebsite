@@ -7,14 +7,14 @@ const Facilities = () => {
       title: "Strength Training Zone",
       description: "State-of-the-art weightlifting equipment and functional training area",
       features: ["Free weights", "Strength machines", "Squat racks, bench press, and deadlift platforms", "Supportive environment"],
-      image: "public/images/services/st.png",
+      image: "/images/services/st.png",
       icon: <Dumbbell className="w-6 h-6" />
     },
     {
       title: "Cardio Section",
       description: "Premium cardio equipment with entertainment systems",
       features: ["Treadmills with speed & incline settings", "Stationary bikes & spin cycles", "Heart-rate & calorie tracking support", "Energetic atmosphere"],
-      image: "public/images/services/cardio.png",
+      image: "/images/services/cardio.png",
       icon: <Users className="w-6 h-6" />
     },
     {
@@ -28,7 +28,7 @@ const Facilities = () => {
       title: "Group Fitness Studios",
       description: "Dedicated spaces for group classes and specialty workouts",
       features: ["Mirrored walls", "Professional sound systems", "Yoga props", "Dance floors"],
-      image: "public/images/services/group.png",
+      image: "/images/services/group.png",
       icon: <Users className="w-6 h-6" />
     }
   ];

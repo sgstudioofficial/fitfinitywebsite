@@ -67,7 +67,7 @@ const Index = () => {
             <div className="flex flex-col items-center justify-center mb-6 fade-in">
               <div className="relative mb-6">
                 <img
-                    src="public/images/founders/logo.png"
+                    src="/images/founders/logo.png"
                     alt="Fitfinity Logo"
                     className="h-24 w-40 md:h-32 md:w-52 object-contain hover-scale transition-all duration-700 drop-shadow-[0_0_20px_rgba(255,215,0,0.5)] hover:drop-shadow-[0_0_30px_rgba(255,215,0,0.8)] animate-[pulse_4s_ease-in-out_infinite]"
                 />
@@ -75,7 +75,7 @@ const Index = () => {
               </div>
               <div className="flex flex-col items-center">
                 <img
-                    src="public/images/tlogo.png"
+                    src="/images/tlogo.png"
                     alt="Fitfinity"
                     className="h-16 md:h-24 object-contain mb-2 transition-all duration-700 hover:scale-105 drop-shadow-[0_8px_16px_rgba(255,255,255,0.4)] hover:drop-shadow-[0_12px_24px_rgba(255,255,255,0.6)]"
                     style={{

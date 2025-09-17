@@ -42,7 +42,7 @@ const Navigation = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-2 group">
               <img
-                  src="public/images/founders/logo.png"
+                  src="/images/founders/logo.png"
                   alt="Fitfinity Logo"
                   className="h-8 w-12 group-hover:scale-110 transition-transform"
               />
