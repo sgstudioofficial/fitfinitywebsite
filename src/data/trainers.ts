@@ -12,16 +12,6 @@ export interface Trainer {
 
 export const trainers: Trainer[] = [
   {
-    name: "Coach Vishal",
-    specialty: "Strength training & HIIT (High-Intensity Interval Training)",
-    experience: "8+ Years",
-    bio: "Vishal specializes in weight training, and advanced stretching techniques. With a structured and personalized approach, he helps clients achieve peak performance while maintaining proper form and preventing injury. His focus on both strength and flexibility ensures long-term results, effective weight loss, and overall functional fitness. Many of his clients have successfully reduced up to 5kg in just one month under his guidance.",
-    image: "/images/coaches/coachvishal.png",
-    rating: 4.9,
-    sessions: 1450,
-    bookingUrl: "https://forms.google.com/example-marcus"
-  },
-  {
     name: "Coach Meena",
     specialty: "Strength training & HIIT (High-Intensity Interval Training)",
     experience: "5+ years",
